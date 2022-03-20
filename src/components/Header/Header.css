@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  background-color: aqua;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-around;
+}
+
+/* .header-title {
+}
+
+.button {  
+} */
